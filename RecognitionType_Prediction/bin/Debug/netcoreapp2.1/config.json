@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "STG": "Data Source=stgbravosqlsvc.cloudapp.net,51433;TrustServerCertificate=True;Database=Root;Persist Security Info=True;User ID=MaestroAdmin;Password=q1DMOrlH(Zh;Pooling=False;MultipleActiveResultSets=True;"
+  }
+}

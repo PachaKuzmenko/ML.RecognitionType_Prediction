@@ -1,0 +1,12 @@
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\RecognitionType_Prediction.deps.json
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\RecognitionType_Prediction.runtimeconfig.json
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\RecognitionType_Prediction.runtimeconfig.dev.json
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\RecognitionType_Prediction.dll
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.csproj.CoreCompileInputs.cache
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.AssemblyInfoInputs.cache
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.AssemblyInfo.cs
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\RecognitionType_Prediction.pdb
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.dll
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.pdb
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\bin\Debug\netcoreapp2.1\config.json
+C:\JOB\TEST\RecognitionType_Prediction\RecognitionType_Prediction\obj\Debug\netcoreapp2.1\RecognitionType_Prediction.csprojAssemblyReference.cache
